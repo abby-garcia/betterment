@@ -10,12 +10,31 @@
 
 
 
+/*
+ First Background Picture */
+
+.smarter-way{
+	background-color: #356598;
+	background-image: url(../images/top-background.png);
+	height:400px;
+}
+
+.smarter-way h1{
+	text-align: center;
+	margin-top: 20%;
+}
 
 
 
+/*Better returns*/
+.better-returns{
+	background-color: #F5F5F5;
+}
 
+.catered-advice{
+	margin-top: 20px;
 
-
+}
 
 
 
