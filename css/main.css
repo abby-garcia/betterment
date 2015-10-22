@@ -49,3 +49,59 @@
 	max-width: 100%;
     height: auto;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER SOCIAL MEDIA */
+.social-media li{
+	list-style-type: none;
+	text-align: inline;
+	display: inline
+}
