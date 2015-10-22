@@ -42,6 +42,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 /*Safe with Betterment*/
 
 .people img{
@@ -53,11 +65,37 @@
 
 
 
+/*Questions? Live Chat*/
+
+.bottom-section{
+	background-color: #0D3866;
+	color:#DCDCDC;
+}
 
 
 
 
+/*FOOTER SMALL PRINT*/
+.small-print p{
+	font-size: 11px;
 
+
+
+}
+
+
+
+
+/*APP-STORE*/
+.app-section{
+	background-color: #0D3866;
+
+}
+
+.app-store{
+	text-align: center;
+
+}
 
 
 
