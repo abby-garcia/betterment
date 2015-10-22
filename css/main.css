@@ -56,6 +56,12 @@
 
 /*Safe with Betterment*/
 
+.safe-color{
+	background-color: #F5F5F5;
+
+
+}
+
 .people img{
 	border-radius: 50%;
 	max-width: 100%;
