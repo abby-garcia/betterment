@@ -64,6 +64,30 @@
 
 
 
+/*Sign Up*/
+
+.sign-up{
+	margin-bottom: 15%;
+	margin-top: 15%;
+
+}
+
+.sign-up h1{
+	text-align: center;
+	color:#00008B;
+	font-weight: lighter;
+
+}
+
+.sign-up button {
+	margin-left: 30em;
+	width:150px;
+	background-color: #DA5621;
+	margin-top: 3em;
+
+}
+
+
 
 /*Questions? Live Chat*/
 
@@ -71,6 +95,58 @@
 	background-color: #0D3866;
 	color:#DCDCDC;
 }
+
+
+.support{
+	background-color: #0C325B;
+	padding-top: 2em;
+
+
+}
+
+
+
+
+/*Footer About US*/
+
+.about-footer{
+	margin-top: 2em;
+}
+
+.about-footer h5{
+	text-align: center;
+
+
+}
+
+
+
+.about-footer li{
+	list-style-type: none;
+	text-decoration: none;
+	color:#DCDCDC;
+
+}
+
+
+
+
+
+
+
+/*Footer Social Media*/
+
+.footer-socialmedia{
+	margin-top: 8%;
+	margin-bottom: 8%;
+
+
+}
+
+.back-to-top{
+	margin-top: 2em;
+}
+
 
 
 
