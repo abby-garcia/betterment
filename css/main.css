@@ -204,15 +204,22 @@
 
 
 
+/*Questions?/Live Chat*/
+
+
+.email{
+	font-size: 10px;
+}
 
 
 
 
 
 
-
-
-
+/*FOOTER ABOUT US*/
+.about-footer{
+	margin-left: 13%;
+}
 
 
 
@@ -220,10 +227,35 @@
 
 
 /*FOOTER SOCIAL MEDIA */
+
+.footer-socialmedia{
+	margin-left: 20%;
+}
+
+
+.social-media{
+	margin-left: -43%;
+}
+
 .social-media li{
 	list-style-type: none;
 	text-align: inline;
 	display: inline
+}
+
+.holdings{
+	margin-right: 20px;
+}
+
+.back-to-top{
+	margin-left: -2%;
+
+}
+
+/*FOOTER SMALL PRINT*/
+
+.small-print{
+	margin-left: 13%;
 }
 
 
