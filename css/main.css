@@ -45,8 +45,15 @@
 
 /*Device Colums*/
 
+.device-content h4{
+	color: #517091;
+	font-size: 26px;
+	font-weight: 300;
+}
 
-
+.device-content p{
+	color: #A9A9A9;
+}
 
 
 
