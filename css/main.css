@@ -22,7 +22,13 @@
 .smarter-way h1{
 	text-align: center;
 	margin-top: 20%;
+	color:white;
+	font-weight: 200;
+	font-size: 55px;
 }
+
+
+
 
 
 
@@ -31,9 +37,107 @@
 	background-color: #F5F5F5;
 }
 
+.better-returns img{
+	margin-left: 13em;
+
+
+}
+
+.better-returns h3{
+	font-weight: lighter;
+	color: #517091;
+	font-size: 45px;
+
+}
+
+.better-returns h4{
+	font-weight: 200;
+	color: #517091;
+	font-size: 20px;
+
+
+
+}
+
+
+.better-returns p{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color:#808080;
+	font-size: 18px;
+	font-weight: 200;
+}
+
+.return-content{
+	position: absolute;
+	margin-left: 56em;
+
+
+}
+
+
+
+/*Catered Advice*/
+
+
 .catered-advice{
 	margin-top: 20px;
 
+}
+
+.catered-advice h3{
+	color: #517091;
+	font-size: 43px;
+	font-weight: 200;
+
+
+}
+
+.catered-advice h4{
+	color: #517091;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.catered-advice p{
+	color:#A9A9A9;
+	font-weight: 200;
+	font-size: 16px;
+}
+
+
+/*Smarter Automation*/
+.smart-automation{
+	padding-top: 3%;
+	padding-bottom: 3%;
+
+}
+
+
+
+.smart-automation h2{
+	color: #517091;
+	font-size: 30px;
+	font-weight: 200;
+	text-align: center;
+}
+
+
+.smart-automation img{
+	margin-left: 9em;
+
+}
+
+.smart-automation h4{
+	text-align: center;
+	font-weight: 400;
+
+}
+
+.smart-automation p{
+	text-align: center;
+	color: #A9A9A9;
+	font-weight: 200;
 }
 
 
@@ -53,6 +157,7 @@
 
 .device-content p{
 	color: #A9A9A9;
+	font-weight: 200;
 }
 
 
