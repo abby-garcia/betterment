@@ -43,6 +43,8 @@
 
 
 
+/*Device Colums*/
+
 
 
 
@@ -58,8 +60,32 @@
 
 .safe-color{
 	background-color: #F5F5F5;
+	margin-bottom-bottom: 10em;
+	padding-bottom: 10%;
+
+}
+
+.safe h3{
+	margin-top: 10%;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 38px;
 
 
+}
+
+.safe p{
+	font-size: 20px;
+	text-align: center;
+	color:#A9A9A9;
+	font-weight: lighter;
+}
+
+
+
+
+.people{
+	margin-left: 20%;
 }
 
 .people img{
@@ -86,7 +112,7 @@
 }
 
 .sign-up button {
-	margin-left: 30em;
+	margin-left: 50em;
 	width:150px;
 	background-color: #DA5621;
 	margin-top: 3em;
@@ -106,9 +132,13 @@
 .support{
 	background-color: #0C325B;
 	padding-top: 2em;
+	height:50px;
+	width: 100%;
 
 
 }
+
+
 
 
 
@@ -219,6 +249,7 @@
 /*FOOTER ABOUT US*/
 .about-footer{
 	margin-left: 13%;
+
 }
 
 
