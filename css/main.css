@@ -5,6 +5,31 @@
    ========================================================================== */
 
 
+/*Navigation*/
+
+.navbar{
+	height: 70px;
+	background-color: #0D3866;
+
+}
+
+.logo{
+	position: relative;
+	padding-top: 0;
+}
+
+
+/*.why {
+	color:#87CEEB;
+}*/
+
+.why-menu a{
+	color:white;
+	text-decoration: none;
+
+}
+
+
 
 
 
