@@ -30,6 +30,34 @@
 }
 
 
+.dropdown-menu li{
+	font-weight: lighter;
+
+}
+
+
+
+.login{
+    margin-left: 500%;
+    margin-top: 17px;
+    background-color: #0D3866;
+    color:white;
+    border-color: #4D83B2;
+
+}
+
+.signup1{
+	margin-top: -57px;
+    position: relative;
+    margin-left: 512%;
+    background-color: #E15C27;
+
+
+
+}
+
+
+
 
 
 
@@ -63,7 +91,7 @@
 }
 
 .better-returns img{
-	margin-left: 13em;
+	margin-left: 4em;
 
 
 }
@@ -95,7 +123,7 @@
 
 .return-content{
 	position: absolute;
-	margin-left: 56em;
+	margin-left: 45em;
 
 
 }
